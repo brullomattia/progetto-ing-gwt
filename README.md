@@ -12,50 +12,6 @@ Progetto ING GWT by
 
     1.2 [Descrizione casi d'uso](#casiduso)
 
-    1.2.1 [Caso d'uso UC1](#cd1)
-
-    1.2.2 [Caso d'uso UC1.1](#cd1.1)
-
-    1.2.3 [Caso d'uso UC1.1.1](#cd1.1.1)
-
-    1.2.4 [Caso d'uso UC1.1.2](#cd1.1.2)
-
-    1.2.5 [Caso d'uso UC1.1.3](#cd1.1.3)
-
-    1.2.6 [Caso d'uso UC1.2](#cd1.2)
-
-    1.2.7 [Caso d'uso UC1.2.1](#cd1.2.1)
-
-    1.2.8 [Caso d'uso UC1.2.2](#cd1.2.2)
-
-    1.2.9 [Caso d'uso UC1.2.3](#cd1.2.3)
-
-    1.2.10 [Caso d'uso UC1.3](#cd1.3)
-
-    1.2.11 [Caso d'uso UC1.3.1](#cd1.3.1)
-
-    1.2.12 [Caso d'uso UC1.5](#cd1.5)
-
-    1.2.13 [Caso d'uso UC1.5.1](#cd1.5.1)
-
-    1.2.14 [Caso d'uso UC1.6](#cd1.6)
-
-    1.2.15 [Caso d'uso UC1.6.1](#cd1.6.1)
-
-    1.2.16 [Caso d'uso UC1.6.2](#cd1.6.2)
-
-    1.2.17 [Caso d'uso UC1.7](#cd1.7)
-
-    1.2.18 [Caso d'uso UC1.7.1](#cd1.7.1)
-
-    1.2.19 [Caso d'uso UC1.7.2](#cd1.7.2)
-
-    1.2.20 [Caso d'uso UC1.8](#cd1.8)
-
-    1.2.21 [Caso d'uso UC1.8.1](#cd1.8.1)
-
-    1.2.21 [Caso d'uso UC1.8.2](#cd1.8.2)
-
     1.3 [Diagramma di dominio](#modellodominio)
 
     1.4 [Glossario](#glossario)
