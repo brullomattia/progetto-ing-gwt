@@ -1,5 +1,9 @@
 # Documentazione progetto-ing-gwt
-Progetto ING GWT
+Progetto ING GWT by 
+- Mattia Brullo
+- Marco Borghi
+- Alberto Margheriti
+
 # Indice
 
 1. [Inception](#inception)
