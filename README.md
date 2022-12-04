@@ -1,8 +1,8 @@
 # Documentazione progetto-ing-gwt
 Progetto ING GWT by 
-- Mattia Brullo
-- Marco Borghi
-- Alberto Margheriti
+- Mattia Brullo 933605
+- Marco Borghi 921304
+- Alberto Margheriti 901957
 
 # Indice
 
