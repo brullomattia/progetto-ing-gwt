@@ -694,7 +694,7 @@ Sulla piattaforma , dopo il lancio , saranno presenti solo due studenti : Marco 
 
 ### **Amministratore:**
 
-**Creazzione di un utente:**
+**Creazione di un utente:**
 
 1. cliccare su “Gestione Account <em>Account.type</em>”
 2. cliccare su Aggiungi Account
@@ -704,7 +704,7 @@ Sulla piattaforma , dopo il lancio , saranno presenti solo due studenti : Marco 
 
 ### **Docente:**
 
-**Creazzione di un corso:**
+** Creazione di un corso:**
 
 6. Accedere come docente
 7. cliccare su “gestione Corsi”
@@ -714,7 +714,7 @@ Sulla piattaforma , dopo il lancio , saranno presenti solo due studenti : Marco 
     3. se si desidera aggiungere un esame TUTTI i campi esame devono essere riempiti→  data Esame deve essere successiva alla data di fine corso, e durata e cfu devono essere numeri interi
     4. Se un corso è stato creato creando anche l’ esame corrispondente  , tale Esame potrà essere modificato solo nella sezione “Gestione Esami ”, della home page del Docente.
 
-**Creazzione di un esame:**
+**Creazione di un esame:**
 
 9. Accedere come docente
 10. cliccare su “Gestione Esami”
