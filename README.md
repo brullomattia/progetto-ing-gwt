@@ -54,7 +54,7 @@ Progetto ING GWT
 
     1.3 [Diagramma di dominio](#modellodominio)
 
-    1.4 [Glossario](#gloassario)
+    1.4 [Glossario](#glossario)
 
 2. [Construction](#construction)
 
